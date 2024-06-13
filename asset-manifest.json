@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/space-flight-news/static/css/main.6df5b37f.css",
-    "main.js": "/space-flight-news/static/js/main.9345896b.js",
+    "main.js": "/space-flight-news/static/js/main.58c4ee6f.js",
     "static/js/453.0565d209.chunk.js": "/space-flight-news/static/js/453.0565d209.chunk.js",
     "static/media/article2.png": "/space-flight-news/static/media/article2.1c988bf5f626517d4ff8.png",
     "static/media/article1.png": "/space-flight-news/static/media/article1.ba9250045d44741bebc0.png",
     "static/media/article3.png": "/space-flight-news/static/media/article3.585eefc506d5f3e8a09a.png",
     "index.html": "/space-flight-news/index.html",
     "main.6df5b37f.css.map": "/space-flight-news/static/css/main.6df5b37f.css.map",
-    "main.9345896b.js.map": "/space-flight-news/static/js/main.9345896b.js.map",
+    "main.58c4ee6f.js.map": "/space-flight-news/static/js/main.58c4ee6f.js.map",
     "453.0565d209.chunk.js.map": "/space-flight-news/static/js/453.0565d209.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6df5b37f.css",
-    "static/js/main.9345896b.js"
+    "static/js/main.58c4ee6f.js"
   ]
 }
